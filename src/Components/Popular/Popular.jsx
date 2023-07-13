@@ -17,7 +17,7 @@ const Popular = () => {
         <div className="secHeader flex">
           <div className="textDiv">
             <h2 className="secTitle">
-              Popular Picture
+              Popular Pictures
             </h2>
             <p>
               From specteculars picture in the world!
