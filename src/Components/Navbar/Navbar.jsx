@@ -32,6 +32,7 @@ const Navbar = () => {
           <ul className="navLists flex">
 
             <li className="navItem">
+              //perubahan dikit
               <a href="#" className="navLink">Home</a>
             </li>
 
